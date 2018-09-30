@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Biggie Smalls",
+    "image": "/images/Biggie.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Billie Joe Armstrong",
+    "image": "/images/Billie.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Britney Spears",
+    "image": "/images/Britney.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "Chris Cornell",
+    "image": "/images/Chris,jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "Coolio",
+    "image": "/images/Coolio.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "Ice Cube",
+    "image": "/images/Cube.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "Dr. Dre",
+    "image": "/images/Dre.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "Eazy E",
+    "image": "/images/Eazy.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "Eddie Vedder",
+    "image": "/images/Eddie.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "Eminem",
+    "image": "/images/Eminem.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "Gwen Stefani",
+    "image": "/images/Gwen.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Justin Timberlake",
+    "image": "/images/Justin.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Kurt Cobain",
+    "image": "/images/Kurt.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Lauryn Hill",
+    "image": "/images/Lauryn.jpg"
+
+  }
+  ,
+  {
+    "id": 12,
+    "name": "Lisa Left Eye Lopes",
+    "image": "/images/LeftEye.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Mariah Carey",
+    "image": "/images/Mariah.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Missy Elliot",
+    "image": "/images/Missy.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Snoop Dogg",
+    "image": "/images/Snoop.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Tupac",
+    "image": "/images/Tupac.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Vanilla Ice",
+    "image": "/images/Vanilla.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Will Smith",
+    "image": "Will.jpg"
+
+  }
+
+]
+
